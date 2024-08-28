@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,Symbol.toStringTag,{value:"Module"});class o{constructor(s){this.name=s}sayName(){console.log(this.name)}}const t=3.14;function n(e){return t+e}exports.PI=t;exports.User=o;exports.addIP=n;
