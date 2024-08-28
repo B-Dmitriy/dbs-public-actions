@@ -1,6 +1,6 @@
 {
   "name": "dbs-public-actions",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "description": "Test package for npm publish and github actions practise",
   "main": "./dist/index.es.js",
