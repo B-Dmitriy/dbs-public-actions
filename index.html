@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <h2>0</h2>
+    <script type="module">
+        import { PI } from './dist/index.es.js';
+        const headers = document.getElementsByTagName('h2')
+
+        headers[0].innerText = PI
+    </script>
+</body>
+
+</html>
